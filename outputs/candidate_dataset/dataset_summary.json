@@ -1,0 +1,17 @@
+{
+  "count": 500,
+  "risk_level_counts": {
+    "very_high": 108,
+    "high": 182,
+    "medium": 197,
+    "low": 13
+  },
+  "priority_counts": {
+    "A": 108,
+    "B": 182,
+    "C": 210
+  },
+  "source": "synthetic_google_linkedin_style",
+  "import_csv": "talentnet_candidates_500_import.csv",
+  "full_csv": "talentnet_candidates_500_full.csv"
+}

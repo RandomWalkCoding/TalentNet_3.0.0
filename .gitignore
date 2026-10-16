@@ -1,0 +1,27 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db
+node_modules/
+.next/
+.playwright-cli/
+backend/data/uploads/
+dist/
+coverage/
+*.log
+backend/talentnet.db
+talentnet.db
+
+# Local product docs and generated artifacts
+*.pdf
+*.docx
+PRD.md
+PRD完整性Review.md
+DealSight_AI_PRD.md_DealSight_AI_PRD.pdf
+TalentNet-PRD.md_TalentNet-PRD.pdf
+
+# Local Codex skill installs
+.agents/
+skills-lock.json

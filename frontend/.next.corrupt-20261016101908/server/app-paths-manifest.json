@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/icon.svg/route": "app/icon.svg/route.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/companies/page": "app/companies/page.js",
+  "/candidates/page": "app/candidates/page.js",
+  "/candidates/[id]/page": "app/candidates/[id]/page.js",
+  "/org-graph/page": "app/org-graph/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/manager/page": "app/manager/page.js",
+  "/page": "app/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/talent-pool/page": "app/talent-pool/page.js",
+  "/browser-tasks/page": "app/browser-tasks/page.js"
+}

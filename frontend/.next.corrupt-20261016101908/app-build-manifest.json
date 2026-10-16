@@ -1,0 +1,111 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-aec9878b8d1ee206.js",
+      "static/chunks/4bd1b696-0b7ac0c7a4c4015a.js",
+      "static/chunks/517-f4cf0b935f146528.js",
+      "static/chunks/main-app-cc9920057c0cacfd.js",
+      "static/chunks/app/_not-found/page-0618728e377a35f7.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-aec9878b8d1ee206.js",
+      "static/chunks/4bd1b696-0b7ac0c7a4c4015a.js",
+      "static/chunks/517-f4cf0b935f146528.js",
+      "static/chunks/main-app-cc9920057c0cacfd.js",
+      "static/css/516614f28119d301.css",
+      "static/chunks/333-825ae8d919244e3a.js",
+      "static/chunks/281-a5ad4115988b3f86.js",
+      "static/chunks/app/layout-418710d129d7cef3.js"
+    ],
+    "/analytics/page": [
+      "static/chunks/webpack-aec9878b8d1ee206.js",
+      "static/chunks/4bd1b696-0b7ac0c7a4c4015a.js",
+      "static/chunks/517-f4cf0b935f146528.js",
+      "static/chunks/main-app-cc9920057c0cacfd.js",
+      "static/chunks/app/analytics/page-3f35c06e1a99e680.js"
+    ],
+    "/companies/page": [
+      "static/chunks/webpack-aec9878b8d1ee206.js",
+      "static/chunks/4bd1b696-0b7ac0c7a4c4015a.js",
+      "static/chunks/517-f4cf0b935f146528.js",
+      "static/chunks/main-app-cc9920057c0cacfd.js",
+      "static/chunks/333-825ae8d919244e3a.js",
+      "static/chunks/347-81f4ebfdb23ae5e5.js",
+      "static/chunks/app/companies/page-7293662faf3af831.js"
+    ],
+    "/candidates/page": [
+      "static/chunks/webpack-aec9878b8d1ee206.js",
+      "static/chunks/4bd1b696-0b7ac0c7a4c4015a.js",
+      "static/chunks/517-f4cf0b935f146528.js",
+      "static/chunks/main-app-cc9920057c0cacfd.js",
+      "static/chunks/333-825ae8d919244e3a.js",
+      "static/chunks/347-81f4ebfdb23ae5e5.js",
+      "static/chunks/app/candidates/page-d667ac7305fddef5.js"
+    ],
+    "/candidates/[id]/page": [
+      "static/chunks/webpack-aec9878b8d1ee206.js",
+      "static/chunks/4bd1b696-0b7ac0c7a4c4015a.js",
+      "static/chunks/517-f4cf0b935f146528.js",
+      "static/chunks/main-app-cc9920057c0cacfd.js",
+      "static/chunks/333-825ae8d919244e3a.js",
+      "static/chunks/347-81f4ebfdb23ae5e5.js",
+      "static/chunks/app/candidates/[id]/page-2528b4c720f0a66b.js"
+    ],
+    "/org-graph/page": [
+      "static/chunks/webpack-aec9878b8d1ee206.js",
+      "static/chunks/4bd1b696-0b7ac0c7a4c4015a.js",
+      "static/chunks/517-f4cf0b935f146528.js",
+      "static/chunks/main-app-cc9920057c0cacfd.js",
+      "static/chunks/333-825ae8d919244e3a.js",
+      "static/chunks/347-81f4ebfdb23ae5e5.js",
+      "static/chunks/app/org-graph/page-254a9f33e7a04532.js"
+    ],
+    "/dashboard/page": [
+      "static/chunks/webpack-aec9878b8d1ee206.js",
+      "static/chunks/4bd1b696-0b7ac0c7a4c4015a.js",
+      "static/chunks/517-f4cf0b935f146528.js",
+      "static/chunks/main-app-cc9920057c0cacfd.js",
+      "static/chunks/333-825ae8d919244e3a.js",
+      "static/chunks/app/dashboard/page-9ec5f4aad0e1ac69.js"
+    ],
+    "/manager/page": [
+      "static/chunks/webpack-aec9878b8d1ee206.js",
+      "static/chunks/4bd1b696-0b7ac0c7a4c4015a.js",
+      "static/chunks/517-f4cf0b935f146528.js",
+      "static/chunks/main-app-cc9920057c0cacfd.js",
+      "static/chunks/app/manager/page-5a07fa576a72c8be.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-aec9878b8d1ee206.js",
+      "static/chunks/4bd1b696-0b7ac0c7a4c4015a.js",
+      "static/chunks/517-f4cf0b935f146528.js",
+      "static/chunks/main-app-cc9920057c0cacfd.js",
+      "static/chunks/app/page-8db3c50674738754.js"
+    ],
+    "/settings/page": [
+      "static/chunks/webpack-aec9878b8d1ee206.js",
+      "static/chunks/4bd1b696-0b7ac0c7a4c4015a.js",
+      "static/chunks/517-f4cf0b935f146528.js",
+      "static/chunks/main-app-cc9920057c0cacfd.js",
+      "static/chunks/103-7ee0b659d67bf6d9.js",
+      "static/chunks/app/settings/page-8b8b4be015efa8e3.js"
+    ],
+    "/talent-pool/page": [
+      "static/chunks/webpack-aec9878b8d1ee206.js",
+      "static/chunks/4bd1b696-0b7ac0c7a4c4015a.js",
+      "static/chunks/517-f4cf0b935f146528.js",
+      "static/chunks/main-app-cc9920057c0cacfd.js",
+      "static/chunks/333-825ae8d919244e3a.js",
+      "static/chunks/347-81f4ebfdb23ae5e5.js",
+      "static/chunks/app/talent-pool/page-c575152245a925c3.js"
+    ],
+    "/browser-tasks/page": [
+      "static/chunks/webpack-aec9878b8d1ee206.js",
+      "static/chunks/4bd1b696-0b7ac0c7a4c4015a.js",
+      "static/chunks/517-f4cf0b935f146528.js",
+      "static/chunks/main-app-cc9920057c0cacfd.js",
+      "static/chunks/103-7ee0b659d67bf6d9.js",
+      "static/chunks/app/browser-tasks/page-1aa21ffef545959d.js"
+    ]
+  }
+}
